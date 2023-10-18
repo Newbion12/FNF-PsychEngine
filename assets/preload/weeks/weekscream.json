@@ -1,0 +1,50 @@
+{
+	"storyName": "What's your favorite fnf song?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "ghostface",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Hello Sidney",
+			"ghostface",
+			[
+				0,
+				10,
+				20
+			]
+		],
+		[
+			"favorite scary movie",
+			"ghostface",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Scream",
+			"ghostface",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Scream",
+	"hiddenUntilUnlocked": false
+}
