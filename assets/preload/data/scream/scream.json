@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"scream",
+			"ghostface",
+			[
+				6,
+				10,
+				35
+			]
+		],
+		[
+			"scream2",
+			"ghostface",
+			[
+				6,
+				10,
+				35
+			]
+		],
+		[
+			"scream3",
+			"ghostface",
+			[
+				6,
+				10,
+				35
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "very scary",
+	"weekName": "scream",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
